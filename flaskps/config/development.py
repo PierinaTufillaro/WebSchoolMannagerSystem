@@ -3,4 +3,4 @@ DEBUG = True
 DB_HOST = 'localhost'
 DB_USER = 'root'
 DB_PASS = ''
-DB_NAME = 'grupo32p'
+DB_NAME = 'grupo32P'
